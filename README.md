@@ -1,1 +1,1 @@
-This is a readme to explain how the app works.
+This is a readme to explain how the app works. Please fill out info when you are done developing.
